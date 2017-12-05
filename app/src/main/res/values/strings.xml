@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Aplikasi Bangun Datar</string>
+    <string name="persegi">persegi</string>
+    <string name="persegi_panjang">persegi panjang</string>
+    <string name="segitia">segitiga</string>
+    <string name="lingkaran">lingkaran</string>
+</resources>
